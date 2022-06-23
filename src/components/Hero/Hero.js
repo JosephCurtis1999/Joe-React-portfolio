@@ -12,8 +12,9 @@ const Hero = (props) => (
         my personal portfolio
       </SectionTitle>
       <SectionText>
-        On this site you will find both personal and group projects that
-        I have been working on over the past year
+        Hello there, my name is Joe. <br />
+        On this site you will find some personal projects and group projects that
+        I have been working on over the past year.
       </SectionText>
       <Button onClick={() => window.location = 'https://github.com/JosephCurtis1999'}>Discover More</Button>
     </LeftSection>
